@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
   "keywords": [
@@ -137,6 +137,23 @@
       "extensions": {
         "website": "https://kingsamo.com",
         "twitter": "https://twitter.com/TokenKingSamo"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9cJGhNRJ8sBVhi1KcHZHYTbdmtmPgBX7hZPYZ24x7uFS",
+      "symbol": "HACHI",
+      "name": "HachiVerse",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/HachiVerse/hachiverse/hachi_logo.png",
+      "tags": [
+        "meme-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://hachiverse.com/",
+        "twitter": "https://twitter.com/hachiverse",
+        "discord": "https://discord.com/invite/hachiverse"
       }
     },
     {
